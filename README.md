@@ -1,2 +1,2 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Neschadin&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats-six-dusky-21.vercel.app/api?username=Neschadin&show_icons=true&theme=transparent)
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Neschadin&theme=transparent)
