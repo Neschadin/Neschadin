@@ -1,27 +1,6 @@
 <p align="center">
-  <img width="420" src="https://github-stats-extended.vercel.app/api?username=Neschadin&show_icons=true&theme=transparent&cache_seconds=1800&v=12" alt="GitHub stats" />
+  <img width="420" src="https://github-stats-extended.vercel.app/api?username=Neschadin&show_icons=true&theme=transparent&cache_seconds=1800&v=11" alt="GitHub stats" />
   <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=Neschadin&theme=transparent" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="420" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Neschadin&layout=compact&theme=transparent&cache_seconds=1800&v=12" alt="Top languages" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Neschadin/askell-mcp">
-    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Neschadin&repo=askell-mcp&theme=transparent&cache_seconds=1800&v=12" alt="askell-mcp" />
-  </a>
-  <a href="https://github.com/Neschadin/sendgrid-mcp">
-    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Neschadin&repo=sendgrid-mcp&theme=transparent&cache_seconds=1800&v=12" alt="sendgrid-mcp" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Neschadin/hi-tech">
-    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Neschadin&repo=hi-tech&theme=transparent&cache_seconds=1800&v=12" alt="hi-tech" />
-  </a>
-  <a href="https://github.com/Neschadin/DBC_dashboard">
-    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Neschadin&repo=DBC_dashboard&theme=transparent&cache_seconds=1800&v=12" alt="DBC_dashboard" />
-  </a>
 </p>
 
 <div align="center">
